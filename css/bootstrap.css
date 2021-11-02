@@ -1377,7 +1377,7 @@ pre code {
   }
 
   .col-md-8 {
-    width: 66.66667%;
+    width: 43.66667%;
   }
 
   .col-md-9 {
@@ -1509,7 +1509,8 @@ pre code {
   }
 
   .col-md-offset-2 {
-    margin-left: 16.66667%;
+    text-align: left;
+    margin-left: -1.66667%;
   }
 
   .col-md-offset-3 {

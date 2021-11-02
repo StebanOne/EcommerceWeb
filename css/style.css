@@ -434,7 +434,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(253, 250, 250, 0.2);
 }
 .fh5co-cover > .fh5co-container {
   position: relative;
@@ -598,7 +598,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-cover .display-tc h2 {
   margin: 0;
   padding: 0;
-  color: white;
+  color: #dc0707;
 }
 #fh5co-header .display-tc h1,
 #fh5co-counter .display-tc h1,
